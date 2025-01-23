@@ -1,4 +1,4 @@
-## MythPix Studio
+## HexaBlock Studio
 
 <!--
 
